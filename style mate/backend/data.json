@@ -1,0 +1,125 @@
+{
+  "wardrobe": [
+    {
+      "id": "w1764359138550",
+      "image_url": "http://localhost:4000/uploads/1764359138509-3.jpg",
+      "item_name": "white top",
+      "category": "tops",
+      "color": "white",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764359195899",
+      "image_url": "http://localhost:4000/uploads/1764359195881-1.jpg",
+      "item_name": "black top",
+      "category": "tops",
+      "color": "black",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764359251391",
+      "image_url": "http://localhost:4000/uploads/1764359251374-2.jpg",
+      "item_name": "shirt",
+      "category": "tops",
+      "color": "peach and brown",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764359310090",
+      "image_url": "http://localhost:4000/uploads/1764359310071-7.jpg",
+      "item_name": "beige bottom",
+      "category": "bottoms",
+      "color": "black and beige",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764359347516",
+      "image_url": "http://localhost:4000/uploads/1764359347503-4.jpg",
+      "item_name": "pink kurti",
+      "category": "dresses",
+      "color": "pink",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764359367592",
+      "image_url": "http://localhost:4000/uploads/1764359367577-5.jpg",
+      "item_name": "top",
+      "category": "tops",
+      "color": "green top",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764359417108",
+      "image_url": "http://localhost:4000/uploads/1764359417092-8.jpg",
+      "item_name": "trousers",
+      "category": "bottoms",
+      "color": "grey",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764361906967",
+      "image_url": "http://localhost:4000/uploads/1764361906922-h.jpg",
+      "item_name": "bottom",
+      "category": "bottoms",
+      "color": "gray",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764362577982",
+      "image_url": "http://localhost:4000/uploads/1764362577964-9.jpg",
+      "item_name": "bottom",
+      "category": "dresses",
+      "color": "sandal",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    },
+    {
+      "id": "w1764452428889",
+      "image_url": "http://localhost:4000/uploads/1764452428821-t.jpg",
+      "item_name": "bottom",
+      "category": "dresses",
+      "color": "gray",
+      "style": "casual",
+      "season": [
+        "all"
+      ],
+      "occasions": []
+    }
+  ],
+  "outfits": []
+}

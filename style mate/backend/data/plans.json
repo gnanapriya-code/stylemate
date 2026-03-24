@@ -1,0 +1,228 @@
+[
+  {
+    "id": "1765136132475",
+    "created_date": "2025-12-07T19:35:32.475Z",
+    "status": "active",
+    "name": "7-Day Outfit Plan",
+    "duration": 7,
+    "schedule": [
+      {
+        "date": "Mon Dec 08 2025",
+        "day": 1,
+        "outfit": {
+          "type": "Combo",
+          "items": [
+            {
+              "id": "user-1765134997816-r0rnz",
+              "item_name": "3",
+              "category": "tops",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134912874-511.jpg"
+            },
+            {
+              "id": "user-1765134997816-6ltfj",
+              "item_name": "h",
+              "category": "bottoms",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134914620-36.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "date": "Tue Dec 09 2025",
+        "day": 2,
+        "outfit": {
+          "type": "Combo",
+          "items": [
+            {
+              "id": "user-1765134997816-p9dul",
+              "item_name": "2",
+              "category": "tops",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134912709-705.jpg"
+            },
+            {
+              "id": "user-1765134997816-ojqir",
+              "item_name": "8",
+              "category": "bottoms",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134913890-895.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "date": "Wed Dec 10 2025",
+        "day": 3,
+        "outfit": {
+          "type": "Combo",
+          "items": [
+            {
+              "id": "user-1765134997816-62rfs",
+              "item_name": "1",
+              "category": "tops",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134912505-555.jpg"
+            },
+            {
+              "id": "user-1765134997816-5qsff",
+              "item_name": "7",
+              "category": "bottoms",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134913515-723.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "date": "Thu Dec 11 2025",
+        "day": 4,
+        "outfit": {
+          "type": "Combo",
+          "items": [
+            {
+              "id": "user-1765134997816-ejbxl",
+              "item_name": "5",
+              "category": "tops",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134913319-670.jpg"
+            },
+            {
+              "id": "user-1765134997816-244hz",
+              "item_name": "9",
+              "category": "bottoms",
+              "style": "formal",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134914232-200.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "date": "Fri Dec 12 2025",
+        "day": 5,
+        "outfit": {
+          "type": "Combo",
+          "items": [
+            {
+              "id": "user-1765134997816-p9dul",
+              "item_name": "2",
+              "category": "tops",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134912709-705.jpg"
+            },
+            {
+              "id": "user-1765134997816-244hz",
+              "item_name": "9",
+              "category": "bottoms",
+              "style": "formal",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134914232-200.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "date": "Sat Dec 13 2025",
+        "day": 6,
+        "outfit": {
+          "type": "Combo",
+          "items": [
+            {
+              "id": "user-1765134997816-j7zui",
+              "item_name": "4",
+              "category": "tops",
+              "style": "ethnic",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134913116-963.jpg"
+            },
+            {
+              "id": "user-1765134997816-ojqir",
+              "item_name": "8",
+              "category": "bottoms",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134913890-895.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "date": "Sun Dec 14 2025",
+        "day": 7,
+        "outfit": {
+          "type": "Combo",
+          "items": [
+            {
+              "id": "user-1765134997816-ejbxl",
+              "item_name": "5",
+              "category": "tops",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134913319-670.jpg"
+            },
+            {
+              "id": "user-1765134997816-ojqir",
+              "item_name": "8",
+              "category": "bottoms",
+              "style": "casual",
+              "color": "unknown",
+              "season": [
+                "all"
+              ],
+              "image_url": "http://localhost:4000/uploads/upload-1765134913890-895.jpg"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- GLOBAL THEME: HIGH-FASHION GLOSSY --- */
+@layer base {
+  body {
+    /* Changed to Slate-900 for sharp, professional readability */
+    @apply text-slate-900 font-sans antialiased;
+    
+    /* Sophisticated, airy background (less saturated, more expensive looking) */
+    background-color: #d4aadd; /* Ultra light orchid base */
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(204, 178, 191, 0.12) 0px, transparent 50%), /* Soft Pink */
+      radial-gradient(at 100% 0%, rgba(177, 169, 199, 0.15) 0px, transparent 50%), /* Soft Violet */
+      radial-gradient(at 50% 50%, rgba(181, 145, 192, 0.8) 0px, transparent 50%),  /* White Highlight Center */
+      radial-gradient(at 0% 100%, rgba(171, 154, 173, 0.12) 0px, transparent 50%); /* Fuchsia */
+    background-attachment: fixed;
+  }
+
+  /* Make all icons look premium with a subtle 3D lift */
+  svg {
+    filter: drop-shadow(0px 2px 3px rgba(163, 145, 145, 0.1));
+  }
+}
+
+@layer utilities {
+  /* CRYSTAL GLASS CARD - High Gloss, Sharp Borders */
+  .glass-card {
+    @apply bg-white/70 backdrop-blur-2xl border border-white/80 shadow-[0_8px_32px_rgba(100,30,100,0.05)];
+    /* Adds a subtle top-light reflection */
+    box-shadow: 
+      inset 0 1px 0 0 rgba(194, 147, 163, 0.9), 
+      0 10px 40px -10px rgba(184, 164, 164, 0.05);
+  }
+  
+  /* SIDEBAR GLASS - Frosted & Minimal */
+  .glass-sidebar {
+    @apply bg-white/85 backdrop-blur-3xl border-r border-white/60 shadow-[4px_0_24px_rgba(0,0,0,0.02)];
+  }
+
+  /* LUXURY GRADIENT TEXT - Rose Gold & Deep Violet */
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-fuchsia-600 via-purple-600 to-indigo-600 drop-shadow-sm;
+  }
+
+  /* GLOSSY 'LIQUID' BUTTON */
+  .btn-glam {
+    @apply bg-gradient-to-r from-fuchsia-600 to-purple-700 text-white font-bold 
+    shadow-[0_4px_15px_rgba(192,38,211,0.35)] border-t border-white/30
+    hover:shadow-[0_8px_25px_rgba(192,38,211,0.5)] hover:-translate-y-0.5 hover:brightness-110
+    active:scale-95 transition-all duration-300 rounded-2xl tracking-wide relative overflow-hidden;
+  }
+  
+  /* Subtle sheen animation for buttons */
+  .btn-glam::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(to right, transparent, rgba(255,255,255,0.3), transparent);
+    transform: skewX(-20deg);
+    transition: 0.5s;
+  }
+  .btn-glam:hover::after {
+    left: 200%;
+    transition: 0.7s ease-in-out;
+  }
+
+  /* POLISHED INPUTS */
+  .input-glam {
+    @apply bg-white/90 border border-slate-200 text-slate-800 placeholder-slate-400 
+    focus:border-fuchsia-400 focus:ring-4 focus:ring-fuchsia-50 rounded-xl transition-all shadow-sm;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+  
+  /* PREMIUM SCROLLBAR */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-slate-300/80 rounded-full hover:bg-fuchsia-300 transition-colors;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); filter: blur(4px); }
+  to { opacity: 1; transform: translateY(0); filter: blur(0); }
+}

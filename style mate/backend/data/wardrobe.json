@@ -1,0 +1,101 @@
+[
+  {
+    "id": "user-1765134997816-62rfs",
+    "item_name": "1",
+    "category": "tops",
+    "style": "casual",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134912505-555.jpg"
+  },
+  {
+    "id": "user-1765134997816-p9dul",
+    "item_name": "2",
+    "category": "tops",
+    "style": "casual",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134912709-705.jpg"
+  },
+  {
+    "id": "user-1765134997816-r0rnz",
+    "item_name": "3",
+    "category": "tops",
+    "style": "casual",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134912874-511.jpg"
+  },
+  {
+    "id": "user-1765134997816-j7zui",
+    "item_name": "4",
+    "category": "tops",
+    "style": "ethnic",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134913116-963.jpg"
+  },
+  {
+    "id": "user-1765134997816-ejbxl",
+    "item_name": "5",
+    "category": "tops",
+    "style": "casual",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134913319-670.jpg"
+  },
+  {
+    "id": "user-1765134997816-5qsff",
+    "item_name": "7",
+    "category": "bottoms",
+    "style": "casual",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134913515-723.jpg"
+  },
+  {
+    "id": "user-1765134997816-ojqir",
+    "item_name": "8",
+    "category": "bottoms",
+    "style": "casual",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134913890-895.jpg"
+  },
+  {
+    "id": "user-1765134997816-244hz",
+    "item_name": "9",
+    "category": "bottoms",
+    "style": "formal",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134914232-200.jpg"
+  },
+  {
+    "id": "user-1765134997816-6ltfj",
+    "item_name": "h",
+    "category": "bottoms",
+    "style": "casual",
+    "color": "unknown",
+    "season": [
+      "all"
+    ],
+    "image_url": "http://localhost:4000/uploads/upload-1765134914620-36.jpg"
+  }
+]

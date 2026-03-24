@@ -1,0 +1,30 @@
+[
+  {
+    "id": "user-1765134997816-ejbxl-user-1765134997816-ojqir",
+    "type": "combo",
+    "items": [
+      {
+        "id": "user-1765134997816-ejbxl",
+        "item_name": "5",
+        "category": "tops",
+        "style": "casual",
+        "color": "unknown",
+        "season": [
+          "all"
+        ],
+        "image_url": "http://localhost:4000/uploads/upload-1765134913319-670.jpg"
+      },
+      {
+        "id": "user-1765134997816-ojqir",
+        "item_name": "8",
+        "category": "bottoms",
+        "style": "casual",
+        "color": "unknown",
+        "season": [
+          "all"
+        ],
+        "image_url": "http://localhost:4000/uploads/upload-1765134913890-895.jpg"
+      }
+    ]
+  }
+]
