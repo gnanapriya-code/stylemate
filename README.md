@@ -1,5 +1,7 @@
 # 👕 StyleSense – AI Outfit Recommender
 
+![demo video](https://github.com/user-attachments/assets/3ceea3fe-ab19-4ce8-ac84-96cb72a307bb)
+
 ## 🚀 Overview
 
 StyleSense is an AI-powered outfit recommendation system that helps users choose the best clothing combinations from their existing wardrobe. It uses computer vision and deep learning to analyze clothing items and suggest compatible outfits based on real-world conditions.
